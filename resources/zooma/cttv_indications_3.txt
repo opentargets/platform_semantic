@@ -3666,3 +3666,4 @@ ClinVar		disease	Myopathy, vacuolar, with casq1 aggregates	http://www.orpha.net/
 ClinVar		disease	Emery-Dreifuss muscular dystrophy 5, autosomal dominant	http://www.orpha.net/ORDO/Orphanet_261	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Polymicrogyria, bilateral perisylvian, autosomal recessive	http://www.orpha.net/ORDO/Orphanet_98889	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Polymicrogyria, bilateral perisylvian, autosomal recessive	http://www.orpha.net/ORDO/Orphanet_268940	Gautier Koscielny	2017-06-06 12:00:00
+ClinGen		disease	isolated Pierre-Robin syndrome	http://www.orpha.net/ORDO/Orphanet_718	Asier Gonzalez, Irene Lopez	2020-11-05 16:30:00
