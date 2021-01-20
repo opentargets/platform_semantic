@@ -500,6 +500,7 @@ Genomics England Panel App		disease	Cleft Lip with or without Cleft Palate	http:
 Genomics England Panel App		disease	Cleft lip/Palate ectodermal dysplasia syndrome	http://www.orpha.net/ORDO/Orphanet_3253	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Cleft lip/palate-ectodermal dysplasia syndrome	http://www.orpha.net/ORDO/Orphanet_3253	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Cleft palate and mental retardation	http://purl.obolibrary.org/obo/MONDO_0016064	Irene Lopez	2021-01-19 12:00:00
+Genomics England Panel App		disease	Cleft palate and mental retardation	http://www.ebi.ac.uk/efo/EFO_0003847	Irene Lopez	2021-01-20 12:00:00
 Genomics England Panel App		disease	Cleidocranial dysplasia	http://www.orpha.net/ORDO/Orphanet_1452	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Cockayne syndrome	http://www.orpha.net/ORDO/Orphanet_191	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Cockayne syndrome B	http://www.orpha.net/ORDO/Orphanet_191	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
